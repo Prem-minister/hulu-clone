@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Hulu main page clone build using React
+
+
+You can access the app using this link : https://hulu-clone-b15d1.web.app/
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
