@@ -1,5 +1,8 @@
 # Hulu main page clone build using React
 
+![](https://github.com/Prem-minister/hulu-clone/blob/master/Capture.PNG)
+
+
 You can access the app using this link : https://hulu-clone-b15d1.web.app/
 
 
