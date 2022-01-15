@@ -1,7 +1,27 @@
 # Hulu main page clone build using React
 
-
 You can access the app using this link : https://hulu-clone-b15d1.web.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
